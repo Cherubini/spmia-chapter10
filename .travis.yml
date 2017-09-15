@@ -9,7 +9,7 @@ services:
 - docker
 notifications:
   email:
-  - carnell28@gmail.com
+  - thiago.cherubini@gmail.com
   on_success: always
   on_failure: always
 branches:
